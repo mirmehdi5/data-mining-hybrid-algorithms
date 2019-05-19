@@ -1,0 +1,1 @@
+Pass "-i bank-data.arff" or "-i bank-full.arff" as argument to run the program.
