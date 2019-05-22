@@ -14,7 +14,7 @@ import weka.core.converters.ArffLoader;
 import java.util.concurrent.TimeUnit;
 
 /**
- * This project compares various classifier algorithms
+ * This project compares various classifier algorithms of data analysis
  * @author MIR
  *
  */
